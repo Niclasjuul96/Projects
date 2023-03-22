@@ -1,4 +1,4 @@
-#!/Users/niclasjuulschaeffer/Projects/.venv/bin/python3.11
+#!/Users/niclasjuulschaeffer/Projects/PDF-AudioFile/.venv/bin/python3.11
 # -*- coding: utf-8 -*-
 import re
 import sys
